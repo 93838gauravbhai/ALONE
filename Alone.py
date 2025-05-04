@@ -18,7 +18,7 @@ bot = telebot.TeleBot('8112431515:AAGvAC_7rzvvuyPaJTmjtSuTSzV2PIPdzGw')
 admin_id = ["6539807903"]
 
 # Group and channel details
-GROUP_ID = "-1001985887035"
+GROUP_ID = "-1001861493980"
 CHANNEL_USERNAME = "@feedbackgauravbhai"
 
 # Default cooldown and attack limits
